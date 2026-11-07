@@ -72,9 +72,9 @@ def read_marks_file(filename):
 
 if __name__ == "__main__":
     students = [
-        Student("YOUR NAME", 88),  # Replace YOUR NAME with your own name.
-        Student("Student Two", 74),
-        Student("Student Three", 39),
+        Student("MOHAN", 88),  # Replace YOUR NAME with your own name.
+        Student("ROHAN", 74),
+        Student("SRINU", 39),
     ]
 
     try:
